@@ -35,7 +35,7 @@ export default createCommand({
       },
       {
         name: "Premium",
-        value: "- Key Premium generated automatically\n  - Can be activated on up to 2 different servers\n  - You can add up to 20 tournaments\n  - News feature released\n  - Feature to follow matches live released"
+        value: "- Key Premium generated automatically\n  - Can be activated on up to 2 different servers\n  - You can add up to 20 tournaments\n  - News feature released\n  - Feature to follow live matches released"
       },
       {
         name: "Payment methods",
